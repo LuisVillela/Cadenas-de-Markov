@@ -1,0 +1,6 @@
+#requirements.txt
+# Dependencias del proyecto
+python-chess
+PyQt5
+matplotlib
+seaborn
